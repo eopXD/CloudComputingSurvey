@@ -22,6 +22,12 @@ This presentation is a part of CSIE 5310 (Virtual Machine), 2019 Spring National
 - `note/`: reading notes on the paper
 - `presentation/`: powerpoints when presentation
 
+### 🎉🎉🎉 Voted as Presentation of the Day 🎉🎉🎉
+### 獎品：49th Annual IEEE/ACM International Symposium on Microarchitecture, 2016, Taiwan T-shirt
+
+![](prize.jpeg)
+
+
 ## Todo
 
 - [ ] 明宏の筆記 on [History-Based Harvesting of Spare Cycles and Storage in Large-Scale Datacenters](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/zhang-yunqi)
